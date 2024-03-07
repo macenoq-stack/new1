@@ -1,0 +1,11 @@
+C:\Users\Students\AppData\Local\Temporary Projects\SharpFitness\bin\Debug\SharpFitness.exe.config
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\bin\Debug\SharpFitness.exe.config
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.PromotionForm.resources
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.Resources.resources
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.vbproj.GenerateResource.Cache
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\bin\Debug\SharpFitness.exe
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\bin\Debug\SharpFitness.pdb
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\bin\Debug\SharpFitness.xml
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.exe
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.xml
+C:\Users\Students\Desktop\stella\SharpFitness\SharpFitness\obj\Debug\SharpFitness.pdb
